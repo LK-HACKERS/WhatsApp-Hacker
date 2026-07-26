@@ -1,5 +1,4 @@
-
-# 📱 LK-HACKERS WhatsApp Hacking Tool
+# LK-HACKERS WhatsApp Hacking Tool
 
 **⚠️ IMPORTANT DISCLAIMER: This tool is** 
 ## 🚀 Installation
