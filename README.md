@@ -45,9 +45,9 @@
 pkg update && pkg upgrade
 pkg install python
 pip install flask
-git clone https://github.com/LK-HACKERS/whatsapp-hacker.git
+git clone https://github.com/LK-HACKERS/WhatsApp-Hacker.git
 cd whatsapp-hacker
-python whatsapp_hacker.py
+python run.py
 ```
 
 🐧 Kali Linux / Ubuntu
@@ -58,7 +58,7 @@ sudo apt install python3 python3-pip
 pip3 install flask
 git clone https://github.com/LK-HACKERS/whatsapp-hacker.git
 cd whatsapp-hacker
-python3 whatsapp_hacker.py
+python3 run.py
 ```
 
 💻 Windows
@@ -68,7 +68,7 @@ python3 whatsapp_hacker.py
 pip install flask
 git clone https://github.com/LK-HACKERS/whatsapp-hacker.git
 cd whatsapp-hacker
-python whatsapp_hacker.py
+python run.py
 ```
 
 🍎 macOS
@@ -78,7 +78,7 @@ brew install python3
 pip3 install flask
 git clone https://github.com/LK-HACKERS/whatsapp-hacker.git
 cd whatsapp-hacker
-python3 whatsapp_hacker.py
+python3 run.py
 ```
 
 ---
@@ -88,7 +88,7 @@ python3 whatsapp_hacker.py
 1️⃣ Start the Server
 
 ```bash
-python whatsapp_hacker.py
+python run.py
 ```
 
 2️⃣ Access the Tool
@@ -300,7 +300,7 @@ DO NOT use this tool for:
 Problem Solution
 Port already in use pkill -f python
 Flask not installed pip install flask
-Permission denied chmod +x whatsapp_hacker.py
+Permission denied chmod +x run.py
 Can't access browser Use http://127.0.0.1:5000
 No logs saving Create logs/ folder
 Invalid phone number Use correct format: +94712345678
@@ -317,31 +317,6 @@ Storage 50MB
 Network Localhost
 
 ---
-
-🔄 Quick Commands
-
-```bash
-# Start the tool
-python whatsapp_hacker.py
-
-# Check logs
-cat logs/*.txt
-
-# Clear logs
-rm -rf logs/*
-
-# Kill process
-pkill -f whatsapp_hacker
-
-# Run on different port
-python whatsapp_hacker.py --port 8080
-
-# Check dependencies
-pip list | grep flask
-```
-
----
-
 📱 OS Compatibility
 
 OS Status
