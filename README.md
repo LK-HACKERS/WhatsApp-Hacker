@@ -1,43 +1,7 @@
 ```markdown
 # 📱 LK-HACKERS WhatsApp Hacking Tool
 
-> **⚠️ IMPORTANT DISCLAIMER: This tool is for EDUCATIONAL and AUTHORIZED SECURITY TESTING purposes only. Use only on systems you own or have explicit permission to test. The authors are not responsible for any misuse.**
-
----
-
-## 📌 Overview
-
-**LK-HACKERS WhatsApp Hacking Tool** is an advanced security testing tool designed for WhatsApp security research. It demonstrates various attack vectors including account hijacking, group takeover, and channel compromise.
-
-**🔴 WARNING: This is a DEMONSTRATION tool for security awareness. Do NOT use for illegal activities.**
-
----
-
-## 🎯 Features
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 📱 **Number Hack** | Hijack WhatsApp accounts via OTP relay | ✅ Active |
-| 👥 **Group Hijack** | Takeover WhatsApp groups | ✅ Active |
-| 📢 **Channel Hack** | Compromise WhatsApp channels | ✅ Active |
-| 🚫 **Banned** | Check account/group/channel ban status | ✅ Active |
-| 📂 **Logging** | Auto-save all captured data | ✅ Active |
-| 🎨 **Dark UI** | Professional hacker-themed interface | ✅ Active |
-
----
-
-## 📂 Files Generated
-
-| File | Description |
-|------|-------------|
-| `logs/whatsapp_number_YYYYMMDD.txt` | Captured target numbers |
-| `logs/whatsapp_otp_YYYYMMDD.txt` | Captured OTP codes |
-| `logs/whatsapp_group_YYYYMMDD.txt` | Captured group links |
-| `logs/whatsapp_channel_YYYYMMDD.txt` | Captured channel links |
-| `logs/whatsapp_hijack_success_YYYYMMDD.txt` | Successful hijack logs |
-
----
-
+> **⚠️ IMPORTANT DISCLAIMER: This tool is 
 ## 🚀 Installation
 
 ### 📱 Termux (Android)
