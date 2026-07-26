@@ -402,4 +402,4 @@ If you find this useful, please ⭐ Star the repository and share it responsibly
 
 © 2026 LK-HACKERS. All rights reserved.
 
-```
+
