@@ -14,7 +14,7 @@ cd whatsapp-hacker
 python run.py
 ```
 
-🐧 Kali Linux / Ubuntu
+# 🐧 Kali Linux / Ubuntu
 
 ```bash
 sudo apt update
@@ -25,7 +25,7 @@ cd whatsapp-hacker
 python3 run.py
 ```
 
-💻 Windows
+# 💻 Windows
 
 ```bash
 # Install Python from python.org
@@ -35,7 +35,7 @@ cd whatsapp-hacker
 python run.py
 ```
 
-🍎 macOS
+# 🍎 macOS
 
 ```bash
 brew install python3
@@ -334,7 +334,9 @@ LK-HACKERS
 CYBER BLACK LION
 
 · Telegram: @LKHACKERS
-· YouTube: SL Cyber Scanners
+
+· YouTube: LK-HACKERS
+
 · GitHub: LK-HACKERS
 
 ---
@@ -350,9 +352,13 @@ If you find this useful, please ⭐ Star the repository and share it responsibly
 ⚠️ REMEMBER: With great power comes great responsibility!
 
 · Use this tool only for educational purposes
+
 · Get explicit permission before testing
+
 · Follow all applicable laws
+
 · Respect others' privacy
+
 · Report vulnerabilities responsibly
 
 ---
