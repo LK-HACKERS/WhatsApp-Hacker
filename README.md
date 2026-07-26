@@ -1,7 +1,7 @@
-```markdown
+
 # 📱 LK-HACKERS WhatsApp Hacking Tool
 
-> **⚠️ IMPORTANT DISCLAIMER: This tool is 
+**⚠️ IMPORTANT DISCLAIMER: This tool is** 
 ## 🚀 Installation
 
 ### 📱 Termux (Android)
