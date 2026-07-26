@@ -280,17 +280,25 @@ Tip Description
 This tool is intended for:
 
 · ✅ Security awareness training
+
 · ✅ Penetration testing (with permission)
+
 · ✅ Educational demonstrations
+
 · ✅ Red team exercises
+
 · ✅ Vulnerability research
 
 DO NOT use this tool for:
 
 · ❌ Stealing WhatsApp accounts
+
 · ❌ Unauthorized access
+
 · ❌ Any illegal activities
+
 · ❌ Fraud or identity theft
+
 · ❌ Harassment or stalking
 
 ---
@@ -321,9 +329,13 @@ Network Localhost
 
 OS Status
 Windows ✅ Works
+
 Linux (Ubuntu/Kali) ✅ Works
+
 macOS ✅ Works
+
 Termux (Android) ✅ Works
+
 iOS (iSH) ✅ Works
 
 ---
@@ -331,11 +343,17 @@ iOS (iSH) ✅ Works
 🚀 Future Updates
 
 · Auto-OTP capture
+
 · Multiple number support
+
 · Proxy support
+
 · Tor integration
+
 · Auto-clean logs
+
 · Export reports
+
 · GUI desktop app
 
 ---
